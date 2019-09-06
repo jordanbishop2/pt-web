@@ -1,45 +1,89 @@
 body{
 
+
+
+  
   width: 600px;
 
-  margin: 0 auto;
+
+margin: 0 auto;
+
+
 
 }
 
-.earth{float:right;}
+.wewantyou{float:right;}
+
+.earth{float:left;}
+
+
 
 h1
 
+
+
 {font-family:"Trebuchet MS", Verdana, sans-serif;
+
+
 
   color:white;
 
+
+
   background-color:limegreen;
+
+
 
   border:4px solid lightgreen;
 
+
+
   border-style:double;
+
+
 
   font-size:30px;
 
+
+
   font-style: italic;
 
+
+
 }
+
+
 
 body
 
+
+
 {font-family:"Trebuchet MS", Verdana, sans-serif;
+
+
 
   color:white;}
 
+
+
 body{
+
   background-color:lightgreen;
+
 }
+
+
 
 h3
 
+
+
 {font-family:"Trebuchet MS", Verdana, sans-serif;
 
+
+
   
+
+
 
 }
